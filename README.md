@@ -76,23 +76,15 @@
 | Client | Mapping |
 |--------|---------|
 | Forge / Vanilla | MCP |
-| Badlion Client | Notch |
 | Custom Client | SRG |
-
-Set `BADLION_CLIENT` or `CUSTOM_CLIENT` in `sdk/includes.h` depending on your target.
 
 ## Building
 
 - **Visual Studio 2022+** with C++17 support
 - **Platform:** x64 Release
-- Links against `opengl32.lib` (already configured)
 
 ## Injection
 
 Use the [WellLovely Loader](https://github.com/pixuszin1337/WellLovely-Loader) to inject the DLL.
 
-Toggle the menu in-game with **INSERT**.
-
-## Disclaimer
-
-For educational purposes only. Use at your own risk.
+Toggle the menu in-game with **UP**.
