@@ -7,6 +7,14 @@
 
 ---
 
+## Screenshot
+
+<p align="center">
+  <img src="screenshot.png" alt="WellLovely in-game" width="700">
+</p>
+
+---
+
 ## Features (52 modules)
 
 ### Combat
